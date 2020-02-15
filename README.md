@@ -1,1 +1,1 @@
-# Uodating-Css-Variables-with-JS
+# Updating-Css-Variables-with-JS
